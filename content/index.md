@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Cya Soon, Ryan
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Small digital space to write what comes to mind. \
+Feel free to explore ツ
+

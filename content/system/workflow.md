@@ -1,7 +1,9 @@
 ---
 title: Workflow
+tags:
+  - productivity
 ---
-2025 of what I'm using
+v.2025
 
 # Scheduling
 **Google Calendar**
@@ -26,6 +28,9 @@ title: Workflow
 **Nvim + Obsidian**
 - Obsidian is simple and I'll use Nvim time to time to take notes
 - Visual map of nodes is appealing to look at
+
+## References
+[[uses]]
 
 
 

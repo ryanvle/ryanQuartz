@@ -4,6 +4,7 @@ tags:
   - productivity
 ---
 v.2025
+see what I'm [[uses|using]] with this workflow
 
 # Scheduling
 **Google Calendar**
@@ -29,8 +30,7 @@ v.2025
 - Obsidian is simple and I'll use Nvim time to time to take notes
 - Visual map of nodes is appealing to look at
 
-## References
-[[uses]]
+
 
 
 

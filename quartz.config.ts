@@ -17,14 +17,14 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "ryanvle.github.io/ryanQuartz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Caveat",
+        header: "Source Serif 4",
         body: "Inclusive Sans",
         code: "IBM Plex Mono",
       },

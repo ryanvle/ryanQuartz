@@ -7,7 +7,7 @@ tags:
 
 # Sites 
 - Quartz: [Quartz](https://quartz.jzhao.xyz/)
-- Blog: [under progress](https://ryanvle.github.io/ryanQuartz/) (╥﹏╥)
+- Blog: [under progress](https://ryanvle.github.io/ryanQuartz/) (will always be in progress)
 
 # Carry
 - Phone

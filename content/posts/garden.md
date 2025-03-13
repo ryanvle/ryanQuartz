@@ -1,9 +1,9 @@
 ---
-title: Digital Gardening
+title: Hoes and Thoughts
 tags:
-- seedling
+  - seedling
 ---
-Some time ago I was looking at different personal websites to gain inspiration for my own. Delving into this rabbit hole I came across [Maggie Appleton's ](https://maggieappleton.com/)website. I found it sleek, simple, and easy to navigate. On the home page something caught my eye. 
+## What is digital gardening?
+A digital garden is an in-between of personal blog and wiki. A collection of your thoughts, notes, ideas, essays that you cultivate over time. They're organized in contextual relationships and links rather than a single stream of thoughts that are sorted by a time-based structure.
 
-An essay titled [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history).
-
+A garden is less performative than a blog and encourages half-finished thoughts to be placed where the public can see.

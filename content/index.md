@@ -1,6 +1,7 @@
 ---
 title: Cya Soon, Ryan
 ---
+<img src="./banner2.svg" width="701" height="175">
 
 Small digital space to write what comes to mind. \
 Feel free to explore ツ

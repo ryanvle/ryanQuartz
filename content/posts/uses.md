@@ -1,7 +1,9 @@
 ---
 title: Uses
+date: 2025-01-01 01:00
 tags:
   - productivity
+  - evergreen
 ---
 2025 of what I use for my [[workflow]]
 

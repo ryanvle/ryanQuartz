@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "ryanvle.github.io/ryanQuartz",
     ignorePatterns: ["private", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: true,
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -30,15 +30,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          light: "#E7DDD3", // background
+          lightgray: "#CAB8AC", // search, linebreak, graph
+          gray: "#85756D", // front matter
+          darkgray: "#B10015", // paragraph text
+          dark: "#202224", // whole, graph view, titles
+          secondary: "#CD0018", // index page title, whole titles
+          tertiary: "#64D970", // highlight
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          textHighlight: "#00BDD6",
         },
         darkMode: {
           light: "#161618",

@@ -1,5 +1,6 @@
 ---
 title: You Don't Have to Be Good at Fighting Games
+date: 2024-08-28
 tags:
   - authenticity
   - fighting games

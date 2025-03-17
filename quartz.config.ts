@@ -37,16 +37,16 @@ const config: QuartzConfig = {
           dark: "#202224", // whole, graph view, titles
           secondary: "#CD0018", // index page title, whole titles
           tertiary: "#64D970", // highlight
-          highlight: "rgba(143, 159, 169, 0.15)",
+          highlight: "rgb(200, 210, 219)",
           textHighlight: "#00BDD6",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
+          light: "#2A3440",
+          lightgray: "#B99769",
+          gray: "#A8C0CB",
+          darkgray: "#EDDCC0",
+          dark: "#D6AD79",
+          secondary: "#E7C79E",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",

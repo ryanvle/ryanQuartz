@@ -47,3 +47,6 @@
     font-size: large;
 }
 
+[saved-theme="dark"] body[data-slug="index"] img[src*="banner2.svg"] {
+    filter: invert(100%)
+}

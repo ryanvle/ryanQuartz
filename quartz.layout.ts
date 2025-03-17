@@ -38,6 +38,14 @@ export const defaultContentPageLayout: PageLayout = {
         linkToMore: "posts/" as SimpleSlug,
       }),
     ),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Bite-sized",
+        limit: 2,
+        filter: (f) => f.slug!.startsWith("bite-sized/"),
+        linkToMore: "thoughts/" as SimpleSlug,
+      }),
+    ),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [

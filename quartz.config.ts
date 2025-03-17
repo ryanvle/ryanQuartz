@@ -37,12 +37,12 @@ const config: QuartzConfig = {
           dark: "#202224", // whole, graph view, titles
           secondary: "#CD0018", // index page title, whole titles
           tertiary: "#64D970", // highlight
-          highlight: "rgb(200, 210, 219)",
+          highlight: "rgba(174, 133, 79, 0.37)",
           textHighlight: "#00BDD6",
         },
         darkMode: {
           light: "#2A3440",
-          lightgray: "#B99769",
+          lightgray: "#5E6C72",
           gray: "#A8C0CB",
           darkgray: "#EDDCC0",
           dark: "#D6AD79",

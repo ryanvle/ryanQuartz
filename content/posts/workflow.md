@@ -17,6 +17,7 @@ see what I'm [[uses|using]] with this workflow
 # To-Do List
 **Obsidian + SyncTrazor**
 - Easy to track across my devices. Used to use NeoVim but got lazy so I'm going back to Obsidian
+
 **Physical DO list**
 - Another physical area to keep track so I don't have to use phone
 - Crossing off stuff feels good and you don't have to complete the whole list

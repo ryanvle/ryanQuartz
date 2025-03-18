@@ -19,6 +19,7 @@ const defaultOptions: ContentMetaOptions = {
   showComma: true,
 }
 
+
 export default ((opts?: Partial<ContentMetaOptions>) => {
   // Merge options with defaults
   const options: ContentMetaOptions = { ...defaultOptions, ...opts }

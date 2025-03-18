@@ -2,8 +2,8 @@
 title: Wild Geese
 date: 2024-11-10 22:28
 tags:
-  - poetry
   - seed
+  - poetry
 ---
 [Source](http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html)
 

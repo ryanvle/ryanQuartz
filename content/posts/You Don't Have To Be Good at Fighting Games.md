@@ -4,7 +4,7 @@ date: 2024-08-28
 tags:
   - authenticity
   - fighting games
-  - seedling
+  - seed
 ---
 Fighting games have always been hard for me. Started out playing Super Smash Bros 64 for a small time at a young age and didn't care if I won or not. Just liked playing the classic characters such as Kirby or Mario and doing their cool moves.
 

@@ -1,5 +1,6 @@
 ---
 title: Mapping Human Experience
+date: 2024-12-1 01:00
 ---
 Definitions of emotions and experiences from [Brené Brown's Atlas of the Heart](https://brenebrown.com/book/atlas-of-the-heart/)
 

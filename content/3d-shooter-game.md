@@ -10,10 +10,7 @@ Simple 3D shooter game where I can learn how to implement multiplayer and my fri
 
 ## Pieces
 - Players
-- Map
+- [Map](test-map)
 - Weapons
 - Movement
 - Multiplayer
-
-## Map
-Using [[blender]]

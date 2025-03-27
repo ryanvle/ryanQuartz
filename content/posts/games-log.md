@@ -7,7 +7,7 @@ tags:
 
 ---
 > [!info] No particular order, just going through what is on my Steam and computer
->  > [!note] Updated March 20th,2025
+>  > [!note] Updated March 26th,2025
 
 ## WEBFISHING
 ⭐⭐⭐⭐⭐ - Cozy fishing game with cute graphics. Variety of fish you can catch. Fun single or multiplayer
@@ -66,3 +66,26 @@ tags:
 ## Terraria
 ⭐⭐⭐⭐⭐ - A classic 2D survival craft game. Base game is enough fun but if you want more there is the Calamity mod
 
+## League of Legends
+⭐⭐⭐ - Took my life but made good friends along the way
+
+## Teamfight Tactics
+⭐⭐⭐⭐ - Autochess genre is very unique and love seeing characters outside of the main game
+
+## Maplestory
+⭐⭐⭐⭐ - The music is peak and the game is very nostalgic to me. Would love to see an orchestra performance!
+
+## Fortnite
+⭐⭐⭐⭐ - The building mechanics are very fun to learn but over time the updates just got crazier, making it hard to keep up. First game I tried to go pro in but fell off lmao.
+
+## Risk of Rain 2
+⭐⭐⭐⭐ - Roguelike with a lot of chaos and cool classes to play. Can add mods which makes the game more goofy. 
+
+## Aragami
+⭐⭐⭐⭐ - Fun co op ninja game. Short and simple
+
+## Aragami 2
+⭐⭐⭐ - Tragedy has struck in the sequel.
+
+## 9 Monkeys of Shaolin
+⭐⭐⭐⭐ - Co op game that me and my friend picked up for remote play. Beat 'em up game with a variety of moves you can do.

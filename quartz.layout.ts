@@ -29,7 +29,7 @@ const left = [
   }),
   Component.DesktopOnly(
     Component.RecentNotes({
-      title: "Recent Writing",
+      title: "Whole",
       limit: 4,
       filter: (f) =>
         f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
@@ -38,7 +38,7 @@ const left = [
   ),
   Component.DesktopOnly(
     Component.RecentNotes({
-      title: "Recent Notes",
+      title: "Bite-sized",
       limit: 2,
       filter: (f) => f.slug!.startsWith("bite-sized/"),
       linkToMore: "bite-sized/" as SimpleSlug,

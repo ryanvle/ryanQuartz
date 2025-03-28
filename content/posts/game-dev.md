@@ -8,4 +8,4 @@ Been wanting to build a 3D game for a long time but never got around to it. In t
 
 This time I will be using the [Godot](https://godotengine.org/) Engine because it is free, 2D/3D capability, and has a lot of resources on learning it.
 
-First game I want to create is a [3D multiplayer shooter](3d-shooter-game).
+First game I want to create is a [3D multiplayer shooter](3d-shooter-game.md).

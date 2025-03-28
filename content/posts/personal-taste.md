@@ -3,7 +3,7 @@ title: Developing Personal Taste
 date: 2024-09-14 20:38
 tags:
   - authenticity
-  - seed
+  - evergreen
 ---
 Developing tastes serves as a guideline for what you like in the world and finding the unexpected within your life.
 

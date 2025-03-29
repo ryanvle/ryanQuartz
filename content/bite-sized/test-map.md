@@ -2,4 +2,4 @@
 title: Test Map
 ---
 Made using [[blender]]
-<img src="1stBox.png">
+![](/bite-sized/images/1stBox.png)

@@ -10,7 +10,7 @@ Simple 3D shooter game where I can learn how to implement multiplayer and my fri
 
 ## Pieces
 - Players
-- [Map](test-map.md)
+- [Map](bite-sized/test-map.md)
 - Weapons
 - Movement
 - Multiplayer

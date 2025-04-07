@@ -1,0 +1,1 @@
+Can the act of writing, for someone who will never hear it, does that do anything for the speaker?
